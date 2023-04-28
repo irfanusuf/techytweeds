@@ -54,7 +54,7 @@ function App() {
             path="/"
             element={ 
               <TextForm
-                heading="Enter your text to analyze "
+                heading="Panun text trayew yetin IFYAMI "
                 mode={mode}
                 showAlert={showAlert}/>}></Route>
 
